@@ -1,1 +1,1 @@
-Testing wiki page [link](wiki/TEST)
+Testing wiki page [link](../../wiki/TEST)
